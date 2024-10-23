@@ -1,12 +1,10 @@
 # Cargo Readme Update
 
-![Crates.io](https://img.shields.io/crates/v/cargo-readme-update)
-![License](https://img.shields.io/crates/l/cargo-readme-update)
-![Rust](https://img.shields.io/badge/Rust-%E2%9C%93-93450a.svg)
+[![Crates.io](https://img.shields.io/crates/v/cargo-readme-update.svg)](https://crates.io/crates/cargo-readme-update)
 
 > **Automatically update the version in the install section in `README.md` effortlessly!** 🦀✨
 
-## 🌟 Features
+## ✨ Features
 
 - **Automated Version Updates**: Keep your `README.md` Cargo.toml dependencies instruction up-to-date with the latest version.
 - **Seamless Integration**: Easily integrates into your Rust workflow as a Cargo tool.
